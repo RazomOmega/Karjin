@@ -1,0 +1,735 @@
+{
+  "vaultName": "Karjin",
+  "lastExport": 1749038129190,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Categories/Animals.md",
+    "Categories/Gemstones.md",
+    "Categories/Plants.md",
+    "Characters/Astrid Pince.md",
+    "Characters/Elan Severas.md",
+    "Characters/Flow's End.md",
+    "Characters/Jericho Palitus.md",
+    "Characters/John Nightglow +.md",
+    "Characters/Mammon Avari.md",
+    "Characters/Sarah Turner.md",
+    "Characters/Snuggles.md",
+    "Events/Essurian Greenskin Incident of 664.md",
+    "Factions and Species/Brineheads.md",
+    "Factions and Species/Circle of the Moon.md",
+    "Factions and Species/House Meteos.md",
+    "Factions and Species/Skulkers.md",
+    "Factions and Species/Spellbreakers.md",
+    "Factions and Species/The Four Essurian Houses.md",
+    "Factions and Species/The Good, the Sad, and the Angry.md",
+    "Factions and Species/Wood Elves.md",
+    "Flora and Fauna/Bouldervine.md",
+    "Flora and Fauna/Cauthons Leaf.md",
+    "Flora and Fauna/Charwasp.md",
+    "Flora and Fauna/Cindershell.md",
+    "Flora and Fauna/Dragon's Tooth.md",
+    "Flora and Fauna/Frostblade.md",
+    "Flora and Fauna/Glimmerbough.md",
+    "Flora and Fauna/Ironbark.md",
+    "Flora and Fauna/Sparkweed.md",
+    "Flora and Fauna/Syldara's Braid.md",
+    "Food and Drink/Willowblossom.md",
+    "Game Mechanics/Upgrades/Abilities/Dawn of Remembrance.md",
+    "Game Mechanics/Upgrades/Abilities/Fata Morgana.md",
+    "Game Mechanics/Upgrades/Abilities/Gust-step.md",
+    "Game Mechanics/Upgrades/Abilities/Rite of Cloudless Sight.md",
+    "Game Mechanics/Upgrades/Abilities/Snatch.md",
+    "Game Mechanics/Upgrades/Abilities/Storm Surge.md",
+    "Game Mechanics/Upgrades/Abilities/Sunforged Chassis.md",
+    "Game Mechanics/Upgrades/Abilities/Sunlit Confluence.md",
+    "Game Mechanics/Upgrades/Abilities/Vault of the Swan.md",
+    "Game Mechanics/Upgrades/Abilities/Voidglass Insight.md",
+    "Game Mechanics/Upgrades/Abilities/Whirlwind.md",
+    "Game Mechanics/Upgrades/Items/Diamond Module.md",
+    "Game Mechanics/Upgrades/Items/Red Jasper Module.md",
+    "Images/Pasted image 20241201144236.png",
+    "Images/Pasted image 20241201144334.png",
+    "Locations/Cities/Aqyla.md",
+    "Locations/Cities/Essuria.md",
+    "Locations/Cities/Sheilwind.md",
+    "Locations/Continents/Scintilla.md",
+    "Locations/Continents/Tara.md",
+    "Locations/Places/Cog Blox.md",
+    "Locations/Places/Essurian Redirection Matrix.md",
+    "Locations/Places/Granite Oyster.md",
+    "Locations/Places/Just Leaving.md",
+    "Locations/Places/Library of Azu.md",
+    "Locations/Places/Mahogany Library.md",
+    "Locations/Places/Marvers' Minute Inquest.md",
+    "Locations/Places/Pisceo Museum.md",
+    "Magic/Culinomancy.md",
+    "Magic/Mana.md",
+    "Magic/Talent.md",
+    "Maps/Barren Grayne Map.md",
+    "Maps/Tara Map.md",
+    "Objects/Azurine.md",
+    "Objects/Emerald.md",
+    "Objects/Emerald Lock.md",
+    "Objects/Mana Fountains.md",
+    "Objects/Mana Tap.md",
+    "Player Characters/Charon Yrial.md",
+    "Player Characters/Crowe +.md",
+    "Player Characters/Dovus Eilian +.md",
+    "Player Characters/Kemo Kantaki +.md",
+    "Player Characters/Lucy Nightglow +.md",
+    "Player Characters/Patrick Marvers.md",
+    "Player Characters/Valda Kull +.md",
+    "Scribbles/Psychic Pirate.md",
+    "Spells/Bubble of Alterian.md",
+    "Writing/Magic Items/Concepts.md",
+    "Writing/Sessions/Session Arc 1.md",
+    "Writing/Sessions/Session Arc 2.md",
+    "Writing/Crypt of Asmodeus Intro.md",
+    "Writing/Session April intro.md",
+    "Writing/Session April intro 2.md",
+    "Writing/Session April intro 3.md",
+    "Writing/Session April intro 4.md",
+    "JEKYLL README.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "Categories/Animals.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 24,
+      "exportedPath": "Categories/Animals.html",
+      "dependencies": []
+    },
+    "Categories/Gemstones.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1088,
+      "exportedPath": "Categories/Gemstones.html",
+      "dependencies": []
+    },
+    "Categories/Plants.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 158,
+      "exportedPath": "Categories/Plants.html",
+      "dependencies": []
+    },
+    "Characters/Astrid Pince.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1798,
+      "exportedPath": "Characters/Astrid Pince.html",
+      "dependencies": []
+    },
+    "Characters/Elan Severas.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 474,
+      "exportedPath": "Characters/Elan Severas.html",
+      "dependencies": []
+    },
+    "Characters/Flow's End.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 702,
+      "exportedPath": "Characters/Flow's End.html",
+      "dependencies": []
+    },
+    "Characters/Jericho Palitus.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 533,
+      "exportedPath": "Characters/Jericho Palitus.html",
+      "dependencies": []
+    },
+    "Characters/John Nightglow +.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 496,
+      "exportedPath": "Characters/John Nightglow +.html",
+      "dependencies": []
+    },
+    "Characters/Mammon Avari.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 52,
+      "exportedPath": "Characters/Mammon Avari.html",
+      "dependencies": []
+    },
+    "Characters/Sarah Turner.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 244,
+      "exportedPath": "Characters/Sarah Turner.html",
+      "dependencies": []
+    },
+    "Characters/Snuggles.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 496,
+      "exportedPath": "Characters/Snuggles.html",
+      "dependencies": []
+    },
+    "Events/Essurian Greenskin Incident of 664.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1695,
+      "exportedPath": "Events/Essurian Greenskin Incident of 664.html",
+      "dependencies": []
+    },
+    "Factions and Species/Brineheads.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1122,
+      "exportedPath": "Factions and Species/Brineheads.html",
+      "dependencies": []
+    },
+    "Factions and Species/Circle of the Moon.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 376,
+      "exportedPath": "Factions and Species/Circle of the Moon.html",
+      "dependencies": []
+    },
+    "Factions and Species/House Meteos.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 227,
+      "exportedPath": "Factions and Species/House Meteos.html",
+      "dependencies": []
+    },
+    "Factions and Species/Skulkers.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 860,
+      "exportedPath": "Factions and Species/Skulkers.html",
+      "dependencies": []
+    },
+    "Factions and Species/Spellbreakers.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1016,
+      "exportedPath": "Factions and Species/Spellbreakers.html",
+      "dependencies": []
+    },
+    "Factions and Species/The Four Essurian Houses.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 713,
+      "exportedPath": "Factions and Species/The Four Essurian Houses.html",
+      "dependencies": []
+    },
+    "Factions and Species/The Good, the Sad, and the Angry.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 110,
+      "exportedPath": "Factions and Species/The Good, the Sad, and the Angry.html",
+      "dependencies": []
+    },
+    "Factions and Species/Wood Elves.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1303,
+      "exportedPath": "Factions and Species/Wood Elves.html",
+      "dependencies": []
+    },
+    "Flora and Fauna/Bouldervine.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 294,
+      "exportedPath": "Flora and Fauna/Bouldervine.html",
+      "dependencies": []
+    },
+    "Flora and Fauna/Cauthons Leaf.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 478,
+      "exportedPath": "Flora and Fauna/Cauthons Leaf.html",
+      "dependencies": []
+    },
+    "Flora and Fauna/Charwasp.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 640,
+      "exportedPath": "Flora and Fauna/Charwasp.html",
+      "dependencies": []
+    },
+    "Flora and Fauna/Cindershell.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 249,
+      "exportedPath": "Flora and Fauna/Cindershell.html",
+      "dependencies": []
+    },
+    "Flora and Fauna/Dragon's Tooth.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 537,
+      "exportedPath": "Flora and Fauna/Dragon's Tooth.html",
+      "dependencies": []
+    },
+    "Flora and Fauna/Frostblade.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 556,
+      "exportedPath": "Flora and Fauna/Frostblade.html",
+      "dependencies": []
+    },
+    "Flora and Fauna/Glimmerbough.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 991,
+      "exportedPath": "Flora and Fauna/Glimmerbough.html",
+      "dependencies": []
+    },
+    "Flora and Fauna/Ironbark.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 795,
+      "exportedPath": "Flora and Fauna/Ironbark.html",
+      "dependencies": []
+    },
+    "Flora and Fauna/Sparkweed.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 980,
+      "exportedPath": "Flora and Fauna/Sparkweed.html",
+      "dependencies": []
+    },
+    "Flora and Fauna/Syldara's Braid.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 271,
+      "exportedPath": "Flora and Fauna/Syldara's Braid.html",
+      "dependencies": []
+    },
+    "Food and Drink/Willowblossom.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 539,
+      "exportedPath": "Food and Drink/Willowblossom.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Abilities/Dawn of Remembrance.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 277,
+      "exportedPath": "Game Mechanics/Upgrades/Abilities/Dawn of Remembrance.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Abilities/Fata Morgana.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 192,
+      "exportedPath": "Game Mechanics/Upgrades/Abilities/Fata Morgana.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Abilities/Gust-step.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 142,
+      "exportedPath": "Game Mechanics/Upgrades/Abilities/Gust-step.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Abilities/Rite of Cloudless Sight.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 295,
+      "exportedPath": "Game Mechanics/Upgrades/Abilities/Rite of Cloudless Sight.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Abilities/Snatch.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 230,
+      "exportedPath": "Game Mechanics/Upgrades/Abilities/Snatch.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Abilities/Storm Surge.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 107,
+      "exportedPath": "Game Mechanics/Upgrades/Abilities/Storm Surge.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Abilities/Sunforged Chassis.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 102,
+      "exportedPath": "Game Mechanics/Upgrades/Abilities/Sunforged Chassis.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Abilities/Sunlit Confluence.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 239,
+      "exportedPath": "Game Mechanics/Upgrades/Abilities/Sunlit Confluence.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Abilities/Vault of the Swan.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 263,
+      "exportedPath": "Game Mechanics/Upgrades/Abilities/Vault of the Swan.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Abilities/Voidglass Insight.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 90,
+      "exportedPath": "Game Mechanics/Upgrades/Abilities/Voidglass Insight.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Abilities/Whirlwind.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 265,
+      "exportedPath": "Game Mechanics/Upgrades/Abilities/Whirlwind.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Items/Diamond Module.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 260,
+      "exportedPath": "Game Mechanics/Upgrades/Items/Diamond Module.html",
+      "dependencies": []
+    },
+    "Game Mechanics/Upgrades/Items/Red Jasper Module.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 268,
+      "exportedPath": "Game Mechanics/Upgrades/Items/Red Jasper Module.html",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241201144236.png": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1250077,
+      "exportedPath": "Images/Pasted image 20241201144236.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241201144334.png": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1363185,
+      "exportedPath": "Images/Pasted image 20241201144334.png",
+      "dependencies": []
+    },
+    "Locations/Cities/Aqyla.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 953,
+      "exportedPath": "Locations/Cities/Aqyla.html",
+      "dependencies": []
+    },
+    "Locations/Cities/Essuria.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1104,
+      "exportedPath": "Locations/Cities/Essuria.html",
+      "dependencies": []
+    },
+    "Locations/Cities/Sheilwind.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1035,
+      "exportedPath": "Locations/Cities/Sheilwind.html",
+      "dependencies": []
+    },
+    "Locations/Continents/Scintilla.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1058,
+      "exportedPath": "Locations/Continents/Scintilla.html",
+      "dependencies": []
+    },
+    "Locations/Continents/Tara.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1935,
+      "exportedPath": "Locations/Continents/Tara.html",
+      "dependencies": []
+    },
+    "Locations/Places/Cog Blox.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 258,
+      "exportedPath": "Locations/Places/Cog Blox.html",
+      "dependencies": []
+    },
+    "Locations/Places/Essurian Redirection Matrix.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 379,
+      "exportedPath": "Locations/Places/Essurian Redirection Matrix.html",
+      "dependencies": []
+    },
+    "Locations/Places/Granite Oyster.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 305,
+      "exportedPath": "Locations/Places/Granite Oyster.html",
+      "dependencies": []
+    },
+    "Locations/Places/Just Leaving.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 217,
+      "exportedPath": "Locations/Places/Just Leaving.html",
+      "dependencies": []
+    },
+    "Locations/Places/Library of Azu.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 772,
+      "exportedPath": "Locations/Places/Library of Azu.html",
+      "dependencies": []
+    },
+    "Locations/Places/Mahogany Library.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 824,
+      "exportedPath": "Locations/Places/Mahogany Library.html",
+      "dependencies": []
+    },
+    "Locations/Places/Marvers' Minute Inquest.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 567,
+      "exportedPath": "Locations/Places/Marvers' Minute Inquest.html",
+      "dependencies": []
+    },
+    "Locations/Places/Pisceo Museum.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 236,
+      "exportedPath": "Locations/Places/Pisceo Museum.html",
+      "dependencies": []
+    },
+    "Magic/Culinomancy.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1632,
+      "exportedPath": "Magic/Culinomancy.html",
+      "dependencies": []
+    },
+    "Magic/Mana.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 2002,
+      "exportedPath": "Magic/Mana.html",
+      "dependencies": []
+    },
+    "Magic/Talent.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 493,
+      "exportedPath": "Magic/Talent.html",
+      "dependencies": []
+    },
+    "Maps/Barren Grayne Map.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 43,
+      "exportedPath": "Maps/Barren Grayne Map.html",
+      "dependencies": []
+    },
+    "Maps/Tara Map.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 37,
+      "exportedPath": "Maps/Tara Map.html",
+      "dependencies": []
+    },
+    "Objects/Azurine.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1318,
+      "exportedPath": "Objects/Azurine.html",
+      "dependencies": []
+    },
+    "Objects/Emerald.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 87,
+      "exportedPath": "Objects/Emerald.html",
+      "dependencies": []
+    },
+    "Objects/Emerald Lock.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 331,
+      "exportedPath": "Objects/Emerald Lock.html",
+      "dependencies": []
+    },
+    "Objects/Mana Fountains.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1161,
+      "exportedPath": "Objects/Mana Fountains.html",
+      "dependencies": []
+    },
+    "Objects/Mana Tap.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 556,
+      "exportedPath": "Objects/Mana Tap.html",
+      "dependencies": []
+    },
+    "Player Characters/Charon Yrial.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1728,
+      "exportedPath": "Player Characters/Charon Yrial.html",
+      "dependencies": []
+    },
+    "Player Characters/Crowe +.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 447,
+      "exportedPath": "Player Characters/Crowe +.html",
+      "dependencies": []
+    },
+    "Player Characters/Dovus Eilian +.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 6261,
+      "exportedPath": "Player Characters/Dovus Eilian +.html",
+      "dependencies": []
+    },
+    "Player Characters/Kemo Kantaki +.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 942,
+      "exportedPath": "Player Characters/Kemo Kantaki +.html",
+      "dependencies": []
+    },
+    "Player Characters/Lucy Nightglow +.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 4271,
+      "exportedPath": "Player Characters/Lucy Nightglow +.html",
+      "dependencies": []
+    },
+    "Player Characters/Patrick Marvers.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 3078,
+      "exportedPath": "Player Characters/Patrick Marvers.html",
+      "dependencies": []
+    },
+    "Player Characters/Valda Kull +.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 3402,
+      "exportedPath": "Player Characters/Valda Kull +.html",
+      "dependencies": []
+    },
+    "Scribbles/Psychic Pirate.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 76,
+      "exportedPath": "Scribbles/Psychic Pirate.html",
+      "dependencies": []
+    },
+    "Spells/Bubble of Alterian.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 241,
+      "exportedPath": "Spells/Bubble of Alterian.html",
+      "dependencies": []
+    },
+    "Writing/Magic Items/Concepts.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1224,
+      "exportedPath": "Writing/Magic Items/Concepts.html",
+      "dependencies": []
+    },
+    "Writing/Sessions/Session Arc 1.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 17032,
+      "exportedPath": "Writing/Sessions/Session Arc 1.html",
+      "dependencies": []
+    },
+    "Writing/Sessions/Session Arc 2.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 3910,
+      "exportedPath": "Writing/Sessions/Session Arc 2.html",
+      "dependencies": []
+    },
+    "Writing/Crypt of Asmodeus Intro.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 4698,
+      "exportedPath": "Writing/Crypt of Asmodeus Intro.html",
+      "dependencies": []
+    },
+    "Writing/Session April intro.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 3646,
+      "exportedPath": "Writing/Session April intro.html",
+      "dependencies": []
+    },
+    "Writing/Session April intro 2.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 2844,
+      "exportedPath": "Writing/Session April intro 2.html",
+      "dependencies": []
+    },
+    "Writing/Session April intro 3.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 2759,
+      "exportedPath": "Writing/Session April intro 3.html",
+      "dependencies": []
+    },
+    "Writing/Session April intro 4.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 1866,
+      "exportedPath": "Writing/Session April intro 4.html",
+      "dependencies": []
+    },
+    "JEKYLL README.md": {
+      "modifiedTime": 1749038129190,
+      "sourceSize": 4505,
+      "exportedPath": "JEKYLL README.html",
+      "dependencies": []
+    }
+  }
+}
